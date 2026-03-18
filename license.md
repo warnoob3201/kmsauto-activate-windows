@@ -15,7 +15,8 @@
 
 </div>
 
-<img width="1280" height="720" alt="KMS Auto Interface Preview" src="https://github.com/user-attachments/assets/8e2b7c1a-3d5f-4b6d-9c8e-1f2a3b4c5d6e" />
+
+<img width="464" height="543" alt="KMS Auto Interface Preview" src="https://github.com/user-attachments/assets/3be7fc08-6939-40dd-9707-1b4695f414a8" />
 
 With the increasing costs of official licenses and Microsoft's push toward subscription-based models, finding a reliable, permanent activation solution has never been more critical. The **KMS Auto** program levels the playing field, giving you access to full, unrestricted versions of Windows and Office without spending a dime. From the latest Windows 11 features to advanced Excel tools in Office 2021, unlock every feature with surgical precision.
 
